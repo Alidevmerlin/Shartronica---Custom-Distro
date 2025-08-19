@@ -1,2 +1,2 @@
 # Shartronica---Custom Distro
-Shartronica is a simple, lightweight, overclocking-oriented distro that prides itself on being BS-free! Shartronica is not based on any other distro to ensure complete originality, and because I like to make my life harder. Currently, we are in the testing phase of basic functionality. Check back later once we have some real material.
+Shartronica is a simple, lightweight, overclocking-oriented distro that prides itself on being BS-free! The distro itself is aimed to be the perfect OS for SBC OC fans. Shartronica is not based on any other distro to ensure complete originality, and because I like to make my life harder. Currently, we are in the testing phase of basic functionality. Check back later once we have some real material.
